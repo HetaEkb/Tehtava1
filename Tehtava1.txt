@@ -55,6 +55,22 @@ public class IkaOhjelma {
 
         System.out.println("Olet aikuinen");
 
+if (ika >= 16) {
+
+			System.out.println("Saat ajaa kevaria"); }
+
+			} else if (ika >= 18) {
+
+			System.out.println("Olet juuri tullut täysi-ikäiseksi ja saat ajaa autoa. ");
+
+			} else {
+
+			System.out.println("Olet aikuinen");
+
+
+
+
+
 }
 
 
